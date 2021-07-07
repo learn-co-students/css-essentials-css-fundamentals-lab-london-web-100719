@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+
+  text-align: center;
+
+}
+
+#featured-property {
+
+  text-align: center;
+
+}
+
+section#featured-property > p {
+
+  text-align: justify;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+nav {
+
+  text-align: center;
+
+}
+
+nav > a {
+
+    padding: 10px;
+    background: lightgrey;
+
+}
+
+section#details > div{
+
+  float: left;
+  display: inline-block;
+  text-align: center;
+  background: red;
+  width: 25%;
+}
