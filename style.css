@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  align-content: center;
+}
+
+img{
+  align-content: center;
+}
+
+img title {
+  font-size: 10px;
+  align-self: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: purple;
+}
+
+p#featured-property {
+  width: 800px;
+}
+
+#details {
+  display: block;
+  float: left;
+}
+
+div {
+  background-color: black;
+  align-content: center;
+  width: 25%;
+}
